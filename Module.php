@@ -6,7 +6,7 @@ use Yii;
 
 /**
  * Blog module class.
- *
+ * Pavel fork
  * @author Zabolotskikh Boris <zabolotskich@bk.ru>
  */
 class Module extends \yii\base\Module
